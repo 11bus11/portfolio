@@ -2,8 +2,17 @@ body {
     background-color: #39A2AE;
 }
 
+footer {
+    background-color: #561F37;
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+}
+
 nav {
     background-color: #561F37;
+    font-family: 'Bebas Neue', cursive;
+    padding-top: 2%;
+    padding-bottom: 2%;
 }
 
 li, .card-title, h1 {
@@ -19,5 +28,5 @@ a {
 }
 
 .icon {
-    width: 6%;
+    width: 8%;
 }
