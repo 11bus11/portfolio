@@ -1,0 +1,23 @@
+body {
+    background-color: #39A2AE;
+}
+
+nav {
+    background-color: #561F37;
+}
+
+li, .card-title, h1 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.card {
+    opacity: 0.8;
+}
+
+a {
+    color: black;
+}
+
+.icon {
+    width: 6%;
+}
