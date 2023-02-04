@@ -1,11 +1,13 @@
 body {
-    background-color: #39A2AE;
+    background-color: #65C3CD;
 }
 
 footer {
     background-color: #561F37;
     font-family: 'Bebas Neue', cursive;
     color: white;
+    bottom: 0;
+    padding-bottom: 4vh;
 }
 
 nav {
@@ -13,6 +15,13 @@ nav {
     font-family: 'Bebas Neue', cursive;
     padding-top: 2%;
     padding-bottom: 2%;
+    position: fixed;
+    box-sizing: content-box;
+    z-index: 10;
+}
+
+main {
+    margin-top: 10em;
 }
 
 li, .card-title, h1 {
@@ -27,6 +36,10 @@ a {
     color: black;
 }
 
+h1, h2 {
+    padding-top: 7px;
+}
+
 .icon {
-    width: 8%;
+    width: 60px;
 }
