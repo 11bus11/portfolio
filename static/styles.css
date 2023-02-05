@@ -1,5 +1,6 @@
 body {
     background-color: #65C3CD;
+    overflow-x: hidden;
 }
 
 footer {
