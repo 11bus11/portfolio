@@ -1,5 +1,5 @@
 body {
-    background-color: #65C3CD;
+    background-color: #CDD6D0;
     overflow-x: hidden;
 }
 
@@ -25,7 +25,9 @@ li, .card-title, h1 {
 }
 
 .card {
-    opacity: 0.8;
+    opacity: 1;
+    border-width: 3px;
+    border-color: #561F37;
 }
 
 .card-image {
