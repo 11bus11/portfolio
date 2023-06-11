@@ -24,6 +24,11 @@ li, .card-title, h1 {
     font-family: 'Bebas Neue', cursive;
 }
 
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
 .card {
     opacity: 1;
     border-width: 3px;
